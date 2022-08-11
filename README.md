@@ -7,7 +7,9 @@ Getting a banner of an open port.
 3. Tells you if banner is even present of not.
 
 # How to use
-`python3 Banner_G.py -host <domain.tld> -port <port>`
+```
+python3 Banner_G.py -host <domain.tld> -port <port>
+```
 
 1. -host  : Could be a domain or IP
 2. -port  : Port number that you want to scan for
